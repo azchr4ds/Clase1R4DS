@@ -1,3 +1,5 @@
+# Funciones utiles 
+
 utils::sessionInfo()
 
 installed.packages()
