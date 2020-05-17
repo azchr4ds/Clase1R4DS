@@ -33,6 +33,20 @@ ls : listamos el contenido de nuestro directorio de trabajo
 Inicializamos nuestro repositorio local :
 git init 
 
+Agrego los archivos del directorio de trabajo a mi repositorio (vacio)
+git add .
+
+Almacenamos el contenido de la carpeta o directorio de trabajo en el 
+repositorio local :
+git commit -a 
+
+Esto nos pide informacion el correo y usuario : 
+git config --global user.email "azch.r4ds@gmail.com"
+git config --global user.name "azchr4ds"
+
+
+
+
 
 
 
