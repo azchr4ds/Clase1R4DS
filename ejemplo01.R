@@ -21,7 +21,7 @@ help("list.files")
 help.search("array")
 
 
-
+help.search("matrix")
 
 
 
