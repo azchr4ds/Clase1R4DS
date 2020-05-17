@@ -44,10 +44,20 @@ Esto nos pide informacion el correo y usuario :
 git config --global user.email "azch.r4ds@gmail.com"
 git config --global user.name "azchr4ds"
 
+Luego ya puedo configurar mi repositorio remoto :
+
+git remote add origin https://github.com/azchr4ds/Clase1R4DS.git
+
+* origin : nombre de mi repositorio remoto
+* https://github.com/azchr4ds/Clase1R4DS.git : URL WEB de repositorio
+
+Para subir los datos/archivos de mi ultimo commit local :
+git push -u origin master
 
 
 
-
+Para clonar cualquier repositorio : 
+git clone https://github.com/azchr4ds/Clase1R4DS.git
 
 
   
