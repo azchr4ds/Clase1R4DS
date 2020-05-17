@@ -1,0 +1,64 @@
+1er paso : instalar git a partir de 
+git-scm.com
+
+Luego , abrir Git Bash
+
+
+Tener en cuenta el hecho de tener un repositorio local 
+y en algun momento optar por subir nuestro codigo a github.com
+
+Para crear una cuenta : github.com -> Sign Up
+llenamos los campos :
+  user name 
+  Email add
+  Passwd
+  
+  Verificamos que no somos un robot , hasta obtener el check
+  
+  Create Account 
+
+Luego Creo un nuevo repositorio : NO marcar la opcion del readme  y dejar el 
+repositorio publico
+
+Abierto Git Bash , navegamos hasta nuestro directorio de trabajo (creado en 
+rstudio)
+
+ejecuto pwd : consulto cual es el directorio actual 
+
+cd Desktop/Clase1_R4DS : modifico mi directorio actual 
+
+ls : listamos el contenido de nuestro directorio de trabajo 
+
+
+Inicializamos nuestro repositorio local :
+git init 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
